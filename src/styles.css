@@ -81,3 +81,9 @@ section .container {
   background: #f9f9f9;
   color: #3d4c60;
 }
+
+
+.Masthead {
+    background: #800000;
+    color: #FFFFFF;
+}
